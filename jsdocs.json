@@ -24,8 +24,8 @@
     },
     "templates": {
         "better-docs": {
-            "name": "Logging Engine",
-            "title": "Logging",
+            "name": "TS Workspace",
+            "title": "TS Workspace",
             "hideGenerator": true,
             "navLinks": [
                 {
